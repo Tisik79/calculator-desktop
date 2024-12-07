@@ -1,0 +1,1 @@
+// Zde bude váš existující JavaScript kód
